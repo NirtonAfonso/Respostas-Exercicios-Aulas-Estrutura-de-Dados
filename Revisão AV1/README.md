@@ -29,8 +29,6 @@
 
 7. Crie uma função que receba dois ponteiros para inteiros, `p1` e `p2`, e "retorne" através de um terceiro ponteiro `maior` o endereço da variável que contém o maior valor.
 
-8. Dada a string `char nome[] = "Ponteiros";` e um ponteiro `char *p = nome;`, use um laço `while` e aritmética de ponteiros (`p++` e `*p`) para imprimir a string caractere por caractere até o fim (`\0`).
+8. Defina uma `struct Livro` com `id` (`int`) e `preco` (`float`). No `main`, declare um livro e um ponteiro para ele. Como você acessa e atribui valores aos campos do livro usando o ponteiro e o operador `->`?
 
-9. Defina uma `struct Livro` com `id` (`int`) e `preco` (`float`). No `main`, declare um livro e um ponteiro para ele. Como você acessa e atribui valores aos campos do livro usando o ponteiro e o operador `->`?
-
-10. Crie uma `struct Jogador` com os campos `pontos` (`int`) e `nivel` (`int`). Escreva uma função `void ganhar_ponto(struct Jogador *j)` que incremente o campo `pontos` em 1 e, caso os pontos cheguem a 10, suba o `nivel` do jogador em 1.
+9. Crie uma `struct Jogador` com os campos `pontos` (`int`) e `nivel` (`int`). Escreva uma função `void ganhar_ponto(struct Jogador *j)` que incremente o campo `pontos` em 1 e, caso os pontos cheguem a 10, suba o `nivel` do jogador em 1.
