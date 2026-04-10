@@ -29,3 +29,5 @@ A saída no console (terminal) será:
 A = 15
 B = 10
 ```
+
+# Para visualizar melhor esse teste mesa, podem acessar o [SIMULADOR DE PONTEIROS](https://nirtonafonso.github.io/simulador-ponteiros-c/)
