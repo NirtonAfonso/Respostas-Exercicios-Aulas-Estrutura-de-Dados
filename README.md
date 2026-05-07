@@ -23,14 +23,14 @@ Use esta branch como referencia da sua turma. Os arquivos estao organizados por 
 ## Como consultar
 
 1. Abra a pasta correspondente ao conteudo que deseja revisar.
-2. Leia os enunciados, exemplos e solucoes disponiveis nos arquivos .c e .md.
+2. Leia os enunciados, exemplos e solucoes disponiveis nos arquivos `.c` e `.md`.
 3. Compare as solucoes com o que foi apresentado em sala e use os exemplos como apoio para estudar sintaxe, logica e estruturas de dados.
 
 ## Observacoes
 
 - Os materiais desta branch pertencem a turma **42CMP01M3B**.
 - Outras turmas podem ter branches com conteudos em ritmos diferentes.
-- O README da branch main funciona como indice geral para acessar todas as turmas.
+- O README da branch `main` funciona como indice geral para acessar todas as turmas.
 - Novos arquivos podem ser adicionados conforme novas aulas, atividades e revisoes forem disponibilizadas.
 
 ## Repositorio
